@@ -7,6 +7,8 @@ public class PushPrint {
 		System.out.printf("Wonkwang Univ.");
 
 		System.out.println("Jeonbuk Iksan");
+		
+		System.out.println("fighting!");
 	}
 
 }
